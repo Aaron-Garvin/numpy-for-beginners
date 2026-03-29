@@ -19,9 +19,15 @@
 </p>
 
 <!-- OPEN IN COLAB BUTTON -->
-<a href="https://colab.research.google.com/drive/1twikiXyC2xZWgR0hgNB9qQYuc6S6_aQl?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="35"/>
-</a>
+<p align="center">
+  <a href="https://nbviewer.org/github/Aaron-Garvin/numpy-for-beginners/blob/main/Practice_py_Numpy.ipynb">
+    <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="View in NBViewer" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://colab.research.google.com/drive/1twikiXyC2xZWgR0hgNB9qQYuc6S6_aQl?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="35"/>
+  </a>
+</p>
 
 <br/><br/>
 
