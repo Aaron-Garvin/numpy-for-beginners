@@ -19,7 +19,7 @@
 </p>
 
 <!-- OPEN IN COLAB BUTTON -->
-<a href="https://colab.research.google.com/drive/1R4mmi5MNmqxgE72sAxuVaN5yKnzWUnke?usp=sharing">
+<a href="https://colab.research.google.com/drive/1twikiXyC2xZWgR0hgNB9qQYuc6S6_aQl?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="35"/>
 </a>
 
